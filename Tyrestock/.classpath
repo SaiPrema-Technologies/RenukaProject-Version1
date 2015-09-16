@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/prompt.jar"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/activation.jar"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/com.springsource.com.lowagie.text-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/mail.jar/mail.jar"/>
+	<classpathentry kind="lib" path="/Users/ashokmagadum/Desktop/untitled folder/apifile/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
